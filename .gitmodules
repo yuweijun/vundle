@@ -1,0 +1,132 @@
+[submodule "Vundle.vim"]
+	path = Vundle.vim
+	url  = git@github.com:VundleVim/Vundle.vim
+[submodule "vim-colorscheme-elive"]
+	path = vim-colorscheme-elive
+	url = git@github.com:Elive/vim-colorscheme-elive
+[submodule "vim-clang"]
+	path = vim-clang
+	url = git@github.com:LucHermitte/vim-clang
+[submodule "vim-matchit"]
+	path = vim-matchit
+	url = git@github.com:Spaceghost/vim-matchit
+[submodule "indentLine"]
+	path = indentLine
+	url = git@github.com:Yggdroot/indentLine
+[submodule "jacinto.vim"]
+	path = jacinto.vim
+	url = git@github.com:alfredodeza/jacinto.vim
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = git@github.com:altercation/vim-colors-solarized
+[submodule "vimux"]
+	path = vimux
+	url = git@github.com:benmills/vimux
+[submodule "base16-vim"]
+	path = base16-vim
+	url = git@github.com:chriskempson/base16-vim
+[submodule "editorconfig-vim"]
+	path = editorconfig-vim
+	url = git@github.com:editorconfig/editorconfig-vim
+[submodule "gitv"]
+	path = gitv
+	url = git@github.com:gregsexton/gitv
+[submodule "auto-pairs"]
+	path = auto-pairs
+	url = git@github.com:jiangmiao/auto-pairs
+[submodule "fzf"]
+	path = fzf
+	url = git@github.com:junegunn/fzf
+[submodule "vim-easy-align"]
+	path = vim-easy-align
+	url = git@github.com:junegunn/vim-easy-align
+[submodule "vim-github-dashboard"]
+	path = vim-github-dashboard
+	url = git@github.com:junegunn/vim-github-dashboard
+[submodule "mustache.vim"]
+	path = mustache.vim
+	url = git@github.com:juvenn/mustache.vim
+[submodule "vim-textobj-user"]
+	path = vim-textobj-user
+	url = git@github.com:kana/vim-textobj-user
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = git@github.com:kien/ctrlp.vim
+[submodule "rainbow_parentheses.vim"]
+	path = rainbow_parentheses.vim
+	url = git@github.com:kien/rainbow_parentheses.vim
+[submodule "vim-jsbeautify"]
+	path = vim-jsbeautify
+	url = git@github.com:maksimr/vim-jsbeautify
+[submodule "vim-indent-object"]
+	path = vim-indent-object
+	url = git@github.com:michaeljsmith/vim-indent-object
+[submodule "ack.vim"]
+	path = ack.vim
+	url = git@github.com:mileszs/ack.vim
+[submodule "ag.vim"]
+	path = ag.vim
+	url = git@github.com:rking/ag.vim
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter
+[submodule "nerdtree"]
+	path = nerdtree
+	url = git@github.com:scrooloose/nerdtree
+[submodule "vim-multiple-cursors"]
+	path = vim-multiple-cursors
+	url = git@github.com:terryma/vim-multiple-cursors
+[submodule "molokai"]
+	path = molokai
+	url = git@github.com:tomasr/molokai
+[submodule "vim-endwise"]
+	path = vim-endwise
+	url = git@github.com:tpope/vim-endwise
+[submodule "vim-fireplace"]
+	path = vim-fireplace
+	url = git@github.com:tpope/vim-fireplace
+[submodule "vim-haml"]
+	path = vim-haml
+	url = git@github.com:tpope/vim-haml
+[submodule "vim-markdown"]
+	path = vim-markdown
+	url = git@github.com:tpope/vim-markdown
+[submodule "vim-rails"]
+	path = vim-rails
+	url = git@github.com:tpope/vim-rails
+[submodule "vim-repeat"]
+	path = vim-repeat
+	url = git@github.com:tpope/vim-repeat
+[submodule "vim-speeddating"]
+	path = vim-speeddating
+	url = git@github.com:tpope/vim-speeddating
+[submodule "vim-surround"]
+	path = vim-surround
+	url = git@github.com:tpope/vim-surround
+[submodule "vim-unimpaired"]
+	path = vim-unimpaired
+	url = git@github.com:tpope/vim-unimpaired
+[submodule "easybuffer.vim"]
+	path = easybuffer.vim
+	url = git@github.com:troydm/easybuffer.vim
+[submodule "vim-airline"]
+	path = vim-airline
+	url = git@github.com:vim-airline/vim-airline
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes
+[submodule "vim-ruby"]
+	path = vim-ruby
+	url = git@github.com:vim-ruby/vim-ruby
+[submodule "YankRing.vim"]
+	path = YankRing.vim
+	url = git@github.com:vim-scripts/YankRing.vim
+[submodule "scratch.vim"]
+	path = scratch.vim
+	url = git@github.com:vim-scripts/scratch.vim
+[submodule "vim-hybrid"]
+	path = vim-hybrid
+	url = git@github.com:w0ng/vim-hybrid
+[submodule "vim-kolor"]
+	path = vim-kolor
+	url = git@github.com:zeis/vim-kolor
