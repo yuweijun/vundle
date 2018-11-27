@@ -130,3 +130,6 @@
 [submodule "vim-kolor"]
 	path = vim-kolor
 	url = https://github.com/zeis/vim-kolor
+[submodule "vim-devicons"]
+	path = vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
