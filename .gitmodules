@@ -49,9 +49,6 @@
 [submodule "vim-textobj-user"]
 	path = vim-textobj-user
 	url = https://github.com/kana/vim-textobj-user
-[submodule "ctrlp.vim"]
-	path = ctrlp.vim
-	url = https://github.com/kien/ctrlp.vim
 [submodule "rainbow_parentheses.vim"]
 	path = rainbow_parentheses.vim
 	url = https://github.com/kien/rainbow_parentheses.vim
@@ -136,3 +133,6 @@
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
