@@ -1,2 +1,0 @@
-# vundle
-vim vundle plugins
