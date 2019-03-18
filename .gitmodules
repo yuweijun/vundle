@@ -136,3 +136,6 @@
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
 	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "vimim"]
+	path = vimim
+	url = https://github.com/yuweijun/vimim.git
