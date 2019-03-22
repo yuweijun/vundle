@@ -137,7 +137,7 @@
 	path = ctrlp.vim
 	url = https://github.com/ctrlpvim/ctrlp.vim.git
 [submodule "vim-hexo"]
-	path = vim-space
+	path = vim-hexo
 	url = https://github.com/yuweijun/vim-hexo.git
 [submodule "vim-im"]
 	path = vim-im
