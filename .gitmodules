@@ -145,3 +145,6 @@
 [submodule "vim-space"]
 	path = vim-space
 	url = https://github.com/yuweijun/vim-space.git
+[submodule "unicode.vim"]
+	path = unicode.vim
+	url = https://github.com/chrisbra/unicode.vim.git
