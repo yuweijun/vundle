@@ -1,33 +1,9 @@
 [submodule "Vundle.vim"]
 	path = Vundle.vim
 	url  = https://github.com/VundleVim/Vundle.vim
-[submodule "vim-colorscheme-elive"]
-	path = vim-colorscheme-elive
-	url = https://github.com/Elive/vim-colorscheme-elive
-[submodule "vim-clang"]
-	path = vim-clang
-	url = https://github.com/LucHermitte/vim-clang
-[submodule "vim-matchit"]
-	path = vim-matchit
-	url = https://github.com/Spaceghost/vim-matchit
 [submodule "indentLine"]
 	path = indentLine
 	url = https://github.com/Yggdroot/indentLine
-[submodule "jacinto.vim"]
-	path = jacinto.vim
-	url = https://github.com/alfredodeza/jacinto.vim
-[submodule "vim-colors-solarized"]
-	path = vim-colors-solarized
-	url = https://github.com/altercation/vim-colors-solarized
-[submodule "vimux"]
-	path = vimux
-	url = https://github.com/benmills/vimux
-[submodule "base16-vim"]
-	path = base16-vim
-	url = https://github.com/chriskempson/base16-vim
-[submodule "editorconfig-vim"]
-	path = editorconfig-vim
-	url = https://github.com/editorconfig/editorconfig-vim
 [submodule "gitv"]
 	path = gitv
 	url = https://github.com/gregsexton/gitv
@@ -40,9 +16,6 @@
 [submodule "vim-easy-align"]
 	path = vim-easy-align
 	url = https://github.com/junegunn/vim-easy-align
-[submodule "vim-github-dashboard"]
-	path = vim-github-dashboard
-	url = https://github.com/junegunn/vim-github-dashboard
 [submodule "mustache.vim"]
 	path = mustache.vim
 	url = https://github.com/juvenn/mustache.vim
@@ -82,9 +55,6 @@
 [submodule "vim-fireplace"]
 	path = vim-fireplace
 	url = https://github.com/tpope/vim-fireplace
-[submodule "vim-haml"]
-	path = vim-haml
-	url = https://github.com/tpope/vim-haml
 [submodule "vim-markdown"]
 	path = vim-markdown
 	url = https://github.com/tpope/vim-markdown
@@ -118,15 +88,6 @@
 [submodule "YankRing.vim"]
 	path = YankRing.vim
 	url = https://github.com/vim-scripts/YankRing.vim
-[submodule "scratch.vim"]
-	path = scratch.vim
-	url = https://github.com/vim-scripts/scratch.vim
-[submodule "vim-hybrid"]
-	path = vim-hybrid
-	url = https://github.com/w0ng/vim-hybrid
-[submodule "vim-kolor"]
-	path = vim-kolor
-	url = https://github.com/zeis/vim-kolor
 [submodule "vim-devicons"]
 	path = vim-devicons
 	url = https://github.com/ryanoasis/vim-devicons.git
@@ -148,3 +109,4 @@
 [submodule "unicode.vim"]
 	path = unicode.vim
 	url = https://github.com/chrisbra/unicode.vim.git
+
