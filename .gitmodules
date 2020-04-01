@@ -7,9 +7,6 @@
 [submodule "auto-pairs"]
 	path = auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs
-[submodule "fzf"]
-	path = fzf
-	url = https://github.com/junegunn/fzf
 [submodule "vim-easy-align"]
 	path = vim-easy-align
 	url = https://github.com/junegunn/vim-easy-align
@@ -19,9 +16,6 @@
 [submodule "vim-jsbeautify"]
 	path = vim-jsbeautify
 	url = https://github.com/maksimr/vim-jsbeautify
-[submodule "vim-indent-object"]
-	path = vim-indent-object
-	url = https://github.com/michaeljsmith/vim-indent-object
 [submodule "ack.vim"]
 	path = ack.vim
 	url = https://github.com/mileszs/ack.vim
@@ -61,6 +55,12 @@
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
 	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "unicode.vim"]
+	path = unicode.vim
+	url = https://github.com/chrisbra/unicode.vim.git
+[submodule "vim-easymotion"]
+	path = vim-easymotion
+	url = https://github.com/Lokaltog/vim-easymotion.git
 [submodule "vim-hexo"]
 	path = vim-hexo
 	url = https://github.com/yuweijun/vim-hexo.git
@@ -70,13 +70,3 @@
 [submodule "vim-space"]
 	path = vim-space
 	url = https://github.com/yuweijun/vim-space.git
-[submodule "unicode.vim"]
-	path = unicode.vim
-	url = https://github.com/chrisbra/unicode.vim.git
-
-[submodule "dein.vim"]
-	path = dein.vim
-	url = https://github.com/Shougo/dein.vim.git
-[submodule "vim-easymotion"]
-	path = vim-easymotion
-	url = https://github.com/Lokaltog/vim-easymotion.git
