@@ -74,3 +74,9 @@
 	path = unicode.vim
 	url = https://github.com/chrisbra/unicode.vim.git
 
+[submodule "dein.vim"]
+	path = dein.vim
+	url = https://github.com/Shougo/dein.vim.git
+[submodule "vim-easymotion"]
+	path = vim-easymotion
+	url = https://github.com/Lokaltog/vim-easymotion.git
