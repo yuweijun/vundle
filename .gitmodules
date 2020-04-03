@@ -64,9 +64,9 @@
 [submodule "vim-hexo"]
 	path = vim-hexo
 	url = https://github.com/yuweijun/vim-hexo.git
-[submodule "vim-im"]
-	path = vim-im
-	url = https://github.com/yuweijun/vim-im.git
 [submodule "vim-space"]
 	path = vim-space
 	url = https://github.com/yuweijun/vim-space.git
+[submodule "vim-wb"]
+	path = vim-wb
+	url = https://github.com/yuweijun/vim-wb.git
