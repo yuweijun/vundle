@@ -70,3 +70,36 @@
 [submodule "vim-wb"]
 	path = vim-wb
 	url = https://github.com/yuweijun/vim-wb.git
+[submodule "dein.vim"]
+	path = dein.vim
+	url = https://github.com/Shougo/dein.vim.git
+[submodule "papercolor-theme"]
+	path = papercolor-theme
+	url = https://github.com/NLKNguyen/papercolor-theme.git
+[submodule "vim-plug"]
+	path = vim-plug
+	url = https://github.com/junegunn/vim-plug.git
+[submodule "vim"]
+	path = vim
+	url = https://github.com/dracula/vim.git
+[submodule "vim-atom-dark"]
+	path = vim-atom-dark
+	url = https://github.com/gosukiwi/vim-atom-dark.git
+[submodule "Zenburn"]
+	path = Zenburn
+	url = https://github.com/jnurmine/Zenburn.git
+[submodule "onedark.vim"]
+	path = onedark.vim
+	url = https://github.com/joshdick/onedark.vim.git
+[submodule "vim-monokai"]
+	path = vim-monokai
+	url = https://github.com/crusoexia/vim-monokai.git
+[submodule "vim-colorschemes"]
+	path = vim-colorschemes
+	url = https://github.com/yuweijun/vim-colorschemes.git
+[submodule "jellybeans.vim"]
+	path = jellybeans.vim
+	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
