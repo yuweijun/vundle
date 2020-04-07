@@ -79,9 +79,6 @@
 [submodule "vim-plug"]
 	path = vim-plug
 	url = https://github.com/junegunn/vim-plug.git
-[submodule "vim"]
-	path = vim
-	url = https://github.com/dracula/vim.git
 [submodule "vim-atom-dark"]
 	path = vim-atom-dark
 	url = https://github.com/gosukiwi/vim-atom-dark.git
@@ -103,3 +100,6 @@
 [submodule "vim-javascript"]
 	path = vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+[submodule "vim-dracula"]
+	path = vim-dracula
+	url = https://github.com/yuweijun/vim-dracula.git
